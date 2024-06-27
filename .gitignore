@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dongok
+dongok.so
+dongok.dylib
+dongok.dll
+dongok.a
+dongok.lib
+dongok-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
