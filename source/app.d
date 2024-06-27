@@ -1,3 +1,4 @@
+// apaan nih cok. ohh iya D ya, emang itu apaan
 import std.stdio;
 import std.json;
 import requests;
